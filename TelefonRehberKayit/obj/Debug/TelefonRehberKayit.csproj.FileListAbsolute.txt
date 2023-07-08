@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\bin\Debug\TelefonRehberKayit.exe.config
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\bin\Debug\TelefonRehberKayit.exe
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\bin\Debug\TelefonRehberKayit.pdb
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.Form1.resources
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.exe
+C:\Users\Mustafa\source\repos\TelefonRehberKayit\TelefonRehberKayit\TelefonRehberKayit\obj\Debug\TelefonRehberKayit.pdb
